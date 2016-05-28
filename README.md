@@ -16,6 +16,8 @@ What this does:
 
 *Note that you could just open the data.sqlite file, search for the string and change 3rd byte after it to 1, but then the database doesn't refresh.*
 
+Get it from the [releases](https://github.com/rab-h-sonmai/Hackulus/releases) page.
+
 Requirements: SQLite  
 License: MIT  
 Disclaimer: I am not responsible for any damage or functionality loss that results from using this software.  
