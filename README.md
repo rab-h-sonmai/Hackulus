@@ -16,6 +16,9 @@ What this does:
 
 *Note that you could just open the data.sqlite file, search for the string and change 3rd byte after it to 1, but then the database doesn't refresh.*
 
+Requirements: SQLite
+License: MIT
+
 TODO:
 
 * Make it less horrible (functions? what are those?)
