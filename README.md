@@ -26,4 +26,3 @@ TODO:
 * Make it less horrible (functions? what are those?)
 * Port it to C# for Unity people
 * Add "restore original BLOB" functionality.
-* 
