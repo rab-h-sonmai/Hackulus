@@ -2,7 +2,7 @@
 
 For now this is just a lousy proof-of-concept that shows how a 3rd-party application can change the Oculus software suite's settings to allow it to run without requiring the user to enable unknown applications.
 
-![BLOB](http://imgur.com/KUS6lbT)
+![BLOB](http://i.imgur.com/5t5aEBi.png)
 
 What this does:
 
